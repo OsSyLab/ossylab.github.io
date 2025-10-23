@@ -12,7 +12,7 @@ From **Excel VBA macros** that streamline daily workflows to **Python automation
 - Backtesting, optimization, and performance reporting
 
 Whether you're an **analyst**, **freelancer**, or **developer**, you’ll find open-source resources here that combine:
-📊 Excel VBA Automation • 🤖 Python Scripting • 📈 Algorithmic Trading • 📤 Data Reporting
+        📊 Excel VBA Automation • 🤖 Python Scripting • 📈 Algorithmic Trading • 📤 Data Reporting
 
 Explore the repositories, clone the tools, and feel free to collaborate on future projects.  
 Your next automation idea starts here — at **Data Solutions Lab.**
