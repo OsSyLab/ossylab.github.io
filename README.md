@@ -9,7 +9,7 @@ Smart Macros • Data Reporting • Workflow Automation
 - 💼 [Fiverr Profile](https://www.fiverr.com/osman_uluhan)
 - 🌍 [Upwork Profile](https://www.upwork.com/freelancers/~0184d2c29264d3dcf2)
 - 🧠 [GitHub Portfolio](https://github.com/OsSyLab)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/osmanuluhan)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/osman-nuri-uluhan-9a950a390)
 - 🧩 [X (Twitter)](https://x.com/OsSy_Lab)
 
 📧 osmanuluhan@hotmail.com
